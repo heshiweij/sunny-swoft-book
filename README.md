@@ -4,6 +4,12 @@
 。该课程干货居多，非常适合有 [swoole](https://www.swoole.com/) 经验，想深入了解微服务的同学学习。
 由于课程没有提供文档，特根据视频整理，仅供参考学习。
 
+该项目同时发布在：
+
+- [Github](https://github.com/heshiweij/sunny-swoft-book)
+- [Gitlab](https://git.lug.ustc.edu.cn/heshiweij/sunny-swoft-book)
+- [Gitree](https://gitee.com/heshiweij/sunny-swoft-book)
+
 感谢 Sunny 老师的分享。支持正版！
 
 - [Swoft2.0入门到微服务](https://study.163.com/course/introduction.htm?courseId=1006515006)
