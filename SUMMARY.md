@@ -12,6 +12,13 @@
     * [实战：实现waitGroup功能](Chapter01/c8.md)
     * [进程、线程、协程的区别](Chapter01/c9.md)
 * 第二章：初始Swoft2.0
+    * [Swoft介绍](Chapter02/c1.md)
+    * [Swoft环境安装](Chapter02/c2.md)
+    * [gcc升级](Chapter02/c3.md)
+    * [安装swoft框架](Chapter02/c4.md)
+    * [目录结构介绍](Chapter02/c5.md)
+    * [SwoftCli工具](Chapter02/c6.md)
+    * [Swoft配置](Chapter02/c7.md)
 * 第三章：Swoft2.0核心
 * 第四章：HTTP服务器
 * 第五章：验证器
